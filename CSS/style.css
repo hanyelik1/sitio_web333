@@ -1,0 +1,190 @@
+/*font-family: 'Shadows Into Light', cursive;
+ font-family: 'Indie Flower', cursive;
+*/
+
+#contenidos{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	
+
+}
+
+
+/*ETIQUETAS*/
+
+
+body{
+background-image: url(../Images/fondo1.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+h1{
+font-family: 'Shadows Into Light', cursive;
+color: #220389;
+margin-left: 10px;
+font-size: 30px;
+text-align: center; 
+
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+color: black;
+margin-left: 10px;
+font-size: 20px;
+text-align: center; 
+
+}
+
+ 
+	h3{
+font-family: 'Shadows Into Light', cursive;;
+color: black;
+font-size: 20px; 
+text-align: center;
+}
+
+h4{
+ font-family:'shadows Into Light', cursive;;
+ color:#3D03FE;
+ font-size: 20px;
+ text-align: center;
+ }
+
+  h5{
+  	font-family: 'Shadows Into Light', cursive;
+    color: black;
+    margin-left: 10px;
+    size: 30px;
+    text-align: center; 
+
+
+
+ }
+
+header{
+	width: 900px;
+	height: 120 px;
+	background: rgba(255, 255, 255, 10,70);
+	text-align: center;
+}
+
+nav{
+width: 1000px;
+height: 80px;
+background: white;
+border-radius: 10px;
+
+}
+ul{
+margin: auto;
+padding-top: 4px;
+}
+/* button*/
+li{
+	float: center;
+	text-decoration: none;
+	display: inline-block;
+ 	font-size: 1.10em;
+	background: #3498db;
+	color: #020009;
+	margin: 5px 5px;
+	border:2px solid #4A7EE4;
+    
+   
+ 	padding: 10px 5px;
+ 	width: 150px;
+ 	box-shadow: 0px 0px 0px #f2f2f2;
+ 	border-spacing: 50px;
+
+
+ }
+ 	
+ 	li.hover{
+ 		background: #f2f2f2;
+ 		color: #3498db;
+ 		
+
+}
+
+section{
+	width: 700px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+aside{
+
+	width: 280px;
+	background: white;
+	height: 600px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+footer{
+width: 1000px;
+height: 200px;
+background: #3498db;
+bottom: 0;
+float: left;
+margin-top: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+
+
+}
+
+p{
+
+	font-size: 15px;
+	font-weight: Times New Roman;
+	line-height: 20px;
+	padding: 9px;
+	text-align: justify;
+
+
+
+
+
+}
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
